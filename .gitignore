@@ -3,3 +3,140 @@
 ._*
 .vscode
 certbot-help.txt
+response": "OK",
+    "country_code": "US",
+    "country_name": "United States of America",
+    "region_name": "New York",
+    "city_name": "Hicksville",
+    "latitude": 40.76413,
+    "longitude": -73.51897,
+    "zip_code": "11801",
+    "time_zone": "-05:00",
+    "isp": "Optimum Online",
+    "domain": "optimum.net",
+    "net_speed": "DSL",
+    "idd_code": "1",
+    "area_code": "516",
+    "weather_station_code": "USNY0653",
+    "weather_station_name": "Hicksville",
+    "mcc": "-",
+    "mnc": "-",
+    "mobile_brand": "-",
+    "elevation": 45,
+    "usage_type": "ISP",
+    "address_type": "Unicast",
+    "category": "IAB19-18",
+    "category_name": "Internet Technology",
+    "geotargeting": {
+        "metro": "501"
+    },
+    "continent": {
+        "name": "North America",
+        "code": "NA",
+        "hemisphere": [
+            "north",
+            "west"
+        ],
+        "translations": {
+            "zh-cn": "\u5317\u7f8e\u6d32"
+        }
+    },
+    "country": {
+        "name": "United States of America",
+        "alpha3_code": "USA",
+        "numeric_code": "840",
+        "demonym": "Americans",
+        "flag": "https:\/\/cdn.ip2location.com\/assets\/img\/flags\/us.png",
+        "capital": "Washington, D.C.",
+        "total_area": "9826675",
+        "population": "331002651",
+        "currency": {
+            "code": "USD",
+            "name": "United States Dollar",
+            "symbol": "$"
+        },
+        "language": {
+            "code": "EN",
+            "name": "English"
+        },
+        "idd_code": "1",
+        "tld": "us",
+        "is_eu": false,
+        "translations": {
+            "zh-cn": "\u7f8e\u56fd"
+        }
+    },
+    "country_groupings": [
+        {
+            "acronym": "Americas",
+            "name": "Americas"
+        },
+        {
+            "acronym": "APEC",
+            "name": "Asia-Pacific Economic Cooperation"
+        },
+        {
+            "acronym": "DAC",
+            "name": "Development Assistance Committee"
+        },
+        {
+            "acronym": "G2",
+            "name": "Group of Two"
+        },
+        {
+            "acronym": "G20",
+            "name": "Group of Twenty"
+        },
+        {
+            "acronym": "G7",
+            "name": "Group of Seven"
+        },
+        {
+            "acronym": "G8+5",
+            "name": "Group of Eight + Five"
+        },
+        {
+            "acronym": "NAFTA",
+            "name": "North American Free Trade Agreement"
+        },
+        {
+            "acronym": "NALA",
+            "name": "North America and Latin America"
+        },
+        {
+            "acronym": "OAS",
+            "name": "Organization of American States"
+        },
+        {
+            "acronym": "OECD",
+            "name": "Organisation for Economic Co-operation and Development"
+        },
+        {
+            "acronym": "P5",
+            "name": "Permanent Members of the United Nations Security Council"
+        },
+        {
+            "acronym": "UN",
+            "name": "United Nations"
+        }
+    ],
+    "region": {
+        "name": "New York",
+        "code": "US-NY",
+        "translations": {
+            "zh-cn": "\u7ebd\u7ea6"
+        }
+    },
+    "city": {
+        "name": "Hicksville"
+    },
+    "time_zone_info": {
+        "olson": "-",
+        "current_time": "2023-01-16T17:00:06+00:00",
+        "gmt_offset": 0,
+        "is_dst": "no",
+        "sunrise": "12:15",
+        "sunset": "21:52"
+    },
+    "credits_consumed": 35
+}
